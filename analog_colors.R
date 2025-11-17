@@ -1,10 +1,11 @@
 library(colorspace)
 
-analog.colors <- list()
-for (i in 1:nrow(p)) {
-  h <- as(hex2RGB(p$palette[i]), "polarLUV")@coords[1, "H"] # estrai tonalità
-  analog.colors[[i]] <- hcl(h + c(-100,-60,60,100), 80, 70) # tonalità ± 60,100 gradi
-}
+analog.colors <- setNames(
+  lapply(p$palette, function(col) {
+    h <- as(hex2RGB(col), "polarLUV")@coords[1, "H"]  # tonalità
+    hcl(h + c(-100, -60, 60, 100), 80, 70)
+  }),
+  p$palette
+)
 
-names(analog.colors) <- p$palette
 analog.colors
