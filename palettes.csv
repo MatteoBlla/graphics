@@ -26,3 +26,52 @@ palette;description;group
 #f04c45;coral red;palette9
 #fad25a;lemonade yellow;palette9
 #f08fb5;bubble pink;palette9
+#1a1e30;dark bluish charcoal;palette10
+#05318f;deep royal blue;palette10
+#3291a3;soft teal blue;palette10
+#b595bd;muted lavender;palette10
+#ca1d3c;bold crimson red;palette10
+#b6a233;warm olive gold;palette10
+#181011;very dark brown-black;palette_brown
+#4c2014;deep reddish brown;palette_brown
+#813d25;warm chestnut brown;palette_brown
+#ac5a39;coppery terracotta;palette_brown
+#fdc895;soft peach tan;palette_brown
+#fdc895;soft peach tan;palette_brown
+#ffddbc;very light peach cream;palette_brown
+#152229;deep blue-black;palette11
+#0a4e7d;strong azure;palette11
+#1377a5;medium ocean blue;palette11
+#8a2526;dark brick red;palette11
+#e5e49d;pale warm yellow;palette11
+#c0d3ca;cool pale mint-grey;palette11
+#343e50;slate navy;palette_sunflower
+#8399ae;dusty steel blue;palette_sunflower
+#ba6d2b;burnt amber;palette_sunflower
+#e3a536;golden sunflower yellow;palette_sunflower
+#fdd17d;soft honey yellow;palette_sunflower
+#517c52;muted forest green;palette_sunflower
+#22141f;deep plum-black;palette_purple
+#7a3f62;dusty mauve;palette_purple
+#c68dae;soft pastel pink-lilac;palette_purple
+#fa4479;vibrant magenta pink;palette_purple
+#ff93bc;bright bubblegum pink;palette_purple
+#e2f6f4;very pale aqua;palette_purple
+#0f102a;near-black navy;palette12
+#c1141b;vivid scarlet red;palette12
+#eabb38;rich amber yellow;palette12
+#d97022;burnt orange;palette12
+#582616;dark mahogany;palette12
+#e7dbd5;pale warm beige;palette12
+#011321;midnight blue;palette_blue
+#011d3d;deep marine blue;palette_blue
+#063651;teal navy;palette_blue
+#0c5371;deep teal;palette_blue
+#3db9db;light aqua blue;palette_blue
+#6adcff;bright sky cyan;palette_blue
+#39080c;deep wine red;palette_80s
+#ce1411;retro bright red;palette_80s
+#ffa757;neon peach-orange;palette_80s
+#314d49;deep muted teal;palette_80s
+#3291a3;soft teal blue;palette_80s
+#242d2f;dark graphite grey;palette_80s
